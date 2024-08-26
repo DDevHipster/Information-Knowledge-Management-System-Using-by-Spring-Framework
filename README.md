@@ -32,6 +32,3 @@ It is recommended for reference only. To install this project, do the following 
 3. Execute the code  or  Export a 'war' file and excute tomcat8 on server.
 4. Import the code 'App Source Code/android-start' to Android development tool(Android Studio..).
 5. excute the application.
- 
-## Preview
-* Demonstration video : https://youtu.be/KdGmuvDZrII
